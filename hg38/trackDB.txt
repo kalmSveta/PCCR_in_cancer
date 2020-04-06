@@ -1,0 +1,7 @@
+track unpaired_ss
+type bigBed 9 +
+itemRgb on
+visibility 3
+bigDataUrl unpaired_sugnificant_track.bb
+shortLabel unpaired_ss
+longLabel ss from unpaired data
