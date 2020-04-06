@@ -1,0 +1,5 @@
+hub PCCR_in_cancer
+shortLabel PCCR_in_cancer
+longLabel PCCR in cancer
+genomesFile genomes.txt 
+email svetlana.kalmykova@skoltech.ru
