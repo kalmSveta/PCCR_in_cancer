@@ -2,6 +2,26 @@ track unpaired_ss
 type bigBed 9 +
 itemRgb on
 visibility 3
-bigDataUrl unpaired_sugnificant_track.bb
+bigDataUrl unpaired_significant_track.bb
 shortLabel unpaired_ss
 longLabel ss from unpaired data
+
+track paired_ss_pre_significance
+type bigBed 9 +
+itemRgb on
+visibility 3
+bigDataUrl paired_pre_significance_significant_track.bb
+shortLabel paired_ss_pre_significance
+longLabel ss from paired data, significance calculated for each site
+
+track paired_ss_post_significance
+type bigBed 9 +
+itemRgb on
+visibility 3
+bigDataUrl paired_post_significance_significant_track.bb
+shortLabel paired_ss_post_significance
+longLabel ss from paired data, significance calculated for pulled data
+
+
+
+
