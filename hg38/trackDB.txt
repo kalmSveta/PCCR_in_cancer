@@ -23,8 +23,8 @@ shortLabel paired_ss_post_significance
 longLabel ss from paired data, significance calculated for pulled data
 
 
-track uniprot annotation
-type bigBed 9 +
+track uniprot_annotation
+type bigBed 6
 labelOnFeature on
 visibility 0
 bigDataUrl struct_ann_genome_pretty_hg38_track.bb
