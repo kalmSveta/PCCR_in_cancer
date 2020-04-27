@@ -33,7 +33,7 @@ longLabel uniprot annotation
 track BRCA_DE_genes 
 type bigBed 9 +
 itemRgb on
-visibility 3
+visibility 0
 bigDataUrl BRCA_DE_genes.bb
 shortLabel BRCA_DE_genes
 longLabel genes DE in BRCA
