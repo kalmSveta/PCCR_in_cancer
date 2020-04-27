@@ -22,7 +22,6 @@ bigDataUrl paired_post_significance_significant_track.bb
 shortLabel paired_ss_post_significance
 longLabel ss from paired data, significance calculated for pulled data
 
-
 track uniprot_annotation
 type bigBed 6
 labelOnFeature on
@@ -31,7 +30,13 @@ bigDataUrl struct_ann_genome_pretty_hg38_track.bb
 shortLabel uniprot_annotation
 longLabel uniprot annotation
 
-
+track BRCA_DE_genes 
+type bigBed 9 +
+itemRgb on
+visibility 3
+bigDataUrl BRCA_DE_genes.bb
+shortLabel BRCA_DE_genes
+longLabel genes DE in BRCA
 
 
 
