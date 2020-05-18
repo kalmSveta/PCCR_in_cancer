@@ -14,12 +14,12 @@ bigDataUrl paired_pre_significance_significant_track.bb
 shortLabel paired_ss_pre_significance
 longLabel ss from paired data, significance calculated for each site
 
-track paired_ss_post_significance
+track paired_ss_post_significanc
 type bigBed 9 +
 itemRgb on
 visibility 3
 bigDataUrl paired_post_significance_significant_track.bb
-shortLabel paired_ss_post_significance
+shortLabel paired_ss_post_significanc
 longLabel ss from paired data, significance calculated for pulled data
 
 track uniprot_annotation
